@@ -1,0 +1,48 @@
+{
+  "name": "cdn-ninja",
+  "displayName": "CDN Ninja",
+  "description": "This will get a starter template Bootstrap & Materializecss and other CDN",
+  "version": "0.1.0",
+  "publisher": "TechFolk",
+  "homepage": "https://github.com/ludustyn121/CDN-Ninja",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/ludustyn121/CDN-Ninja/issues",
+    "email": "TechFolk@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ludustyn121/CDN-Ninja"
+  },
+  "engines": {
+    "vscode": "^1.20.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "icon": "icon.png",
+  "contributes": {
+    "snippets": [
+      {
+        "language": "html",
+        "path": "./snippets/snippets.json"
+      },
+      {
+        "language": "jinja-html",
+        "path": "./snippets/snippets.json"
+      },
+      {
+        "language": "django-html",
+        "path": "./snippets/snippets.json"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/snippets.json"
+      }
+      
+    ]
+  },
+  "dependencies": {
+    "npm": "^6.13.4"
+  }
+}

@@ -1,66 +1,4 @@
-# CDN Ninja
-
-### Main Commands
-
-| **Command** | ** Help Text **                                                                                   |
-| ----------- | ------------------------------------------------------------------------------------------------- |
-| !bcdn       | Creates an Bootstrap 4 starter template. With Jquery, popper.js and Font-Awesome 5                |
-| !mcdn       | Creates an Materializecss starter template. With Jquery, Google Icon and Font-Awesome 5           |
-| !b4acdn     | Creates cdn for Back4App                                                                          |
-
-
-
-
-### CDN
-
-- Bootstrap 4 CDN 🚀
-- Materializecss CDN ✅
-- Back4App CDN ✅
-
-![Gif](https://i.imgur.com/Vp1w8uI.gif)
-
-
-<!-- ### Bootswatch Template variations
-
-| **Command**    | **Help Text **                                                    |
-| -------------- | ----------------------------------------------------------------- |
-| !bcdncerulean  | Creates an Bootstrap 4 Template with Cerulean Bootswatch Colors   |
-| !bcdncosmo     | Creates an Bootstrap 4 Template with Cosmo Bootswatch colors      |
-| !bcdncyborg    | Creates an Bootstrap 4 Template with Cyborg Bootswatch colors     |
-| !bcdndarkly    | Creates an Bootstrap 4 Template with Darkly Bootswatch colors     |
-| !bcdnflatly    | Creates an Bootstrap 4 Template with Flatly Bootswatch colors     |
-| !bcdnjournal   | Creates an Bootstrap 4 Template with Journal Bootswatch colors    |
-| !bcdnlitera    | Creates an Bootstrap 4 Template with Litera Bootswatch colors     |
-| !bcdnlumen     | Creates an Bootstrap 4 Template with Lumen Bootswatch colors      |
-| !bcdnlux       | Creates an Bootstrap 4 Template with Lux Bootswatch colors        |
-| !bcdnmateria   | Creates an Bootstrap 4 Template with Materia Bootswatch colors    |
-| !bcdnminty     | Creates an Bootstrap 4 Template with Minty Bootswatch colors      |
-| !bcdnpulse     | Creates an Bootstrap 4 Template with Pulse Bootswatch colors      |
-| !bcdnsandstone | Creates an Bootstrap 4 Template with Sandstone Bootswatch colors  |
-| !bcdnsimplex   | Creates an Bootstrap 4 Template with Simplex Bootswatch colors    |
-| !bcdnsketchy   | Creates an Bootstrap 4 Template with Sketchy Bootswatch colors    |
-| !bcdnslate     | Creates an Bootstrap 4 Template with Slate Bootswatch colors      |
-| !bcdnsolar     | Creates an Bootstrap 4 Template with solar Bootswatch colors      |
-| !bcdnspacelab  | Creates an Bootstrap 4 Template with Space Lab Bootswatch colors  |
-| !bcdnsuperhero | Creates an Bootstrap 4 Template with Super Hero Bootswatch colors |
-| !bcdnunited    | Creates an Bootstrap 4 Template with United Bootswatch colors     |
-| !bcdnyeti      | Creates an Bootstrap 4 Template with Yeti Bootswatch colors       |
-
-### Forms and misc Classes
-
-| Command      | Help Text                                      |
-| ------------ | ---------------------------------------------- |
-| !bsnav       | Default Navigation for Bootstrap               |
-| !bsnavc      | Class to Align Navigation Center               |
-| !bsnavr      | Class to Align Navigation Right                |
-| !bsnavtab    | Class to Use Tab Style Navigation              |
-| !bsnavsticky | Default Sticky Navigation for Bootstrap        |
-| !bsnavpill   | Class to Use Pill Style Navigation             |
-| !bsnavdd     | Default Dropdown Navigation (Requires Jquery)  |
-| !bsnavj      | Class to Justify Navigation                    |
-| !bfg         | Bootstrap Form Group parent element            |
-| !bfc         | Bootstrap Form Control                         |
-| !bsform      | Bootstrap form with input, select and textarea |
+<!-- markdownlint-disable MD037 MD024 MD041 -->
 
 ## Release Notes
 
@@ -68,6 +6,8 @@
 | --- | ----------- |
 | ✅  | Minor Fix   |
 | 🐛  | Bugfix      |
+
+## Release Notes
 
 ### [1.7.0]
 
@@ -96,7 +36,6 @@
 ### Added
 
 - Upgraded bootstrap to `4.5.0` 🚀
-- Upgraded bootstrap to `3.5.1` ✅
 - Upgraded bootstrap to `3.5.1` ✅
 - Added sticky navbar with `!bsnavsticky` 🚀
 
@@ -316,4 +255,3 @@ No known issues so far.
 - [@nartc](https://github.com/nartc)
 - [@wings30306](https://github.com/Wings30306)
 - [@gbrachetta](https://github.com/GBrachetta)
-- [@betahope](https://github.com/BetaHope) -->
