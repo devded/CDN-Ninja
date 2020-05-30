@@ -17,7 +17,12 @@
 - Materializecss CDN ✅
 - Back4App CDN ✅
 
-![Gif](https://i.imgur.com/Vp1w8uI.gif)
+
+
+<p align="center">
+  <img align="middel" src="https://i.imgur.com/Vp1w8uI.gif">
+</p>
+
 
 
 <!-- ### Bootswatch Template variations
