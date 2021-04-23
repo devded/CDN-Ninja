@@ -1,6 +1,6 @@
 {
   "Bootstrap 4 Starter Template CDN ": {
-    "prefix": "!bcdn",
+    "prefix": "!bst",
     "body": [
       "<!DOCTYPE html>",
       "<html lang=\"en\">",
@@ -26,7 +26,7 @@
   },
 
   "Materializecss Starter Template CDN ": {
-    "prefix": "!mcdn",
+    "prefix": "!mst",
     "body": [
       "<!DOCTYPE html>",
       "<html lang=\"en\">",
@@ -50,12 +50,40 @@
     ],
     "description": "This comes with a complete Materialize CSS CDN all it's dependencies. Also Font-Awesome 5 & Material Icon"
   },
+  "tailindcss Starter Template CDN ": {
+    "prefix": "!tcdn",
+    "body": [
+      "<!DOCTYPE html>",
+      "<html lang=\"en\">",
+      "<head>",
+      "<meta charset=\"UTF-8\">",
+      "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">",
+      "<meta http-equiv=\"X-UA-Compatible\" content=\"ie=edge\">",
+      "<meta name=\"Description\" content=\"Enter your description here\"/>",
+      "<link href=\"https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css\" rel=\"stylesheet\">\n",
+      "<title>${1:Title}</title>",
+      "</head>",
+      "<body>",
+      "$0",
+      "</body>",
+      "</html>"
+    ],
+    "description": "This comes with a complete Materialize CSS CDN all it's dependencies. Also Font-Awesome 5 & Material Icon"
+  },
 
   "Back4App JS CDN": {
     "prefix": "!b4acdn",
     "body": [
       "<script src=\"https://npmcdn.com/parse/dist/parse.min.js\"></script>"
     ]
+  },
+
+  "Tailwind CSS CDN": {
+    "prefix": "!tcdn",
+    "body": [
+      "<script src=\"https://npmcdn.com/parse/dist/parse.min.js\"></script>"
+    ]
   }
+
   
 }
