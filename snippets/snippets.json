@@ -109,7 +109,7 @@
   "Tailwind CSS CDN": {
     "prefix": "!tcdn",
     "body": [
-      "<!-- Tailwind CSS -->\n",
+      "<!-- Tailwind CSS -->",
       "<link href=\"https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css\" rel=\"stylesheet\">"
     ]
   },
@@ -117,9 +117,9 @@
   "Materialize CSS CDN": {
     "prefix": "!mcdn",
     "body": [
-      "<!-- Compiled and minified CSS -->\n",
+      "<!-- Compiled and minified CSS -->",
       "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css\">\n",
-      "<!-- Compiled and minified JavaScript -->\n",
+      "<!-- Compiled and minified JavaScript -->",
       "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js\"></script>",
     ]
   },
@@ -127,7 +127,7 @@
   "Bulma CSS CDN": {
     "prefix": "!bucdn",
     "body": [
-      "<!-- Bulma CSS -->\n",
+      "<!-- Bulma CSS -->",
       "<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bulma@0.9.2/css/bulma.min.css\">"
     ]
   },
@@ -135,7 +135,7 @@
   "Pure CSS CDN": {
     "prefix": "!pcdn",
     "body": [
-      "<!-- Pure CSS CDN -->\n",
+      "<!-- Pure CSS CDN -->",
       "<link rel=\"stylesheet\" href=\"https://unpkg.com/purecss@2.0.5/build/pure-min.css\" integrity=\"sha384G9DpmGxRIF6tpgbrkZVcZDeIomEU22LgTguPAI739bbKytjPE/kHTK5YxjJAAEXC\" crossorigin=\"anonymous\">"
     ]
   },
@@ -151,15 +151,15 @@
   "Friconix ICON CDN": {
     "prefix": "!fricdn",
     "body": [
-      "<!-- Friconix Icon-->\n",
+      "<!-- Friconix Icon-->",
       "<script defer src=\"https://friconix.com/cdn/friconix.js\"> </script>"
     ]
   },
 
   "Frontawesome ICON CDN": {
-    "prefix": "!fricdn",
+    "prefix": "!ficdn",
     "body": [
-      "<!-- Frontaesome CDN -->\n",
+      "<!-- Frontaesome CDN -->",
       "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css\" integrity=\"sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==\" crossorigin=\"anonymous\" />"
     ]
   }
