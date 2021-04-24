@@ -81,9 +81,29 @@
   "Tailwind CSS CDN": {
     "prefix": "!tcdn",
     "body": [
+      "<!-- Tailwind CSS -->\n",
       "<link href=\"https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css\" rel=\"stylesheet\">"
     ]
-  }
+  },
 
+  "Materialize CSS CDN": {
+    "prefix": "!mcdn",
+    "body": [
+      "<!-- Compiled and minified CSS -->\n",
+      "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css\">\n",
+      "<!-- Compiled and minified JavaScript -->\n",
+      "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js\"></script>",
+    ]
+  },
+
+  "Bulma CSS CDN": {
+    "prefix": "!bucdn",
+    "body": [
+      "<!-- Bulma CSS -->\n",
+      "<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bulma@0.9.2/css/bulma.min.css\">"
+    ]
+  },
+
+  
   
 }
