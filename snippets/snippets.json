@@ -148,6 +148,12 @@
     ]
   },
 
-  
+  "Friconix ICON CDN": {
+    "prefix": "!fricdn",
+    "body": [
+      "<!-- Friconix Icon-->\n",
+      "<script defer src=\"https://friconix.com/cdn/friconix.js\"> </script>"
+    ]
+  },
   
 }
