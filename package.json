@@ -2,17 +2,17 @@
   "name": "cdn-ninja",
   "displayName": "CDN Ninja",
   "description": "This will get a starter template Bootstrap & Materializecss and other CDN",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "publisher": "TechFolk",
-  "homepage": "https://github.com/ludustyn121/CDN-Ninja",
+  "homepage": "https://github.com/devded/CDN-Ninja",
   "license": "SEE LICENSE IN LICENSE.md",
   "bugs": {
-    "url": "https://github.com/ludustyn121/CDN-Ninja/issues",
+    "url": "https://github.com/devded/CDN-Ninja/issues",
     "email": "TechFolk@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ludustyn121/CDN-Ninja"
+    "url": "https://github.com/devded/CDN-Ninja"
   },
   "engines": {
     "vscode": "^1.20.0"
@@ -43,6 +43,6 @@
     ]
   },
   "dependencies": {
-    "npm": "^6.13.4"
+    "npm": "^6.14.11"
   }
 }
