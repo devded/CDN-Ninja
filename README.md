@@ -4,11 +4,9 @@
 
 | **Command** | ** Help Text **                                                                                   |
 | ----------- | ------------------------------------------------------------------------------------------------- |
-| !bcdn       | Creates an Bootstrap 4 starter template. With Jquery, popper.js and Font-Awesome 5                |
-| !mcdn       | Creates an Materializecss starter template. With Jquery, Google Icon and Font-Awesome 5           |
-| !b4acdn     | Creates cdn for Back4App                                                                          |
 | !bst        | Bootstrap Starter Template                                                                        |
 | !tst        | Tailwind CSS Starter Template                                                                     |
+| !mst        | Materialize CSS  Starte Template                                                                  |
 | !bust       | Bulma Starter Template                                                                            |
 | !bcdn       | Boostrap CDN                                                                                      | 
 
@@ -18,9 +16,10 @@
 
 ### CDN
 
-- Bootstrap 4 CDN 🚀
-- Materializecss CDN ✅
-- Back4App CDN ✅
+- Bootstrap CDN 🚀
+- Materialize css CDN ✅
+- Tailwind css CDN ✅
+- Bulma CDN ✅
 
 
 
