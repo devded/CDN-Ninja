@@ -1,7 +1,7 @@
 
 ### [0.0.1]
 
-Initial release of Bootstrap 4 with CDN Boilerplate 😍 🚀
+Early Release 😍 🚀
 
 ## Known Issues
 
