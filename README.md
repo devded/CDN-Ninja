@@ -7,6 +7,11 @@
 | !bcdn       | Creates an Bootstrap 4 starter template. With Jquery, popper.js and Font-Awesome 5                |
 | !mcdn       | Creates an Materializecss starter template. With Jquery, Google Icon and Font-Awesome 5           |
 | !b4acdn     | Creates cdn for Back4App                                                                          |
+| !bst        | Bootstrap Starter Template                                                                        |
+| !tst        | Tailwind CSS Starter Template                                                                     |
+| !bust       | Bulma Starter Template                                                                            |
+| !bcdn       | Boostrap CDN                                                                                      | 
+
 
 
 
