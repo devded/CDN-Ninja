@@ -143,7 +143,7 @@
   "Material ICON CDN": {
     "prefix": "!micdn",
     "body": [
-      "<!-- Material ICON -->\n",
+      "<!-- Material ICON -->",
       "<link href=\"https://fonts.googleapis.com/icon?family=Material+Icons\" rel=\"stylesheet\">"
     ]
   },

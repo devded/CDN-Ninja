@@ -11,7 +11,7 @@
 
 ---
 
-### Css Framework CDN
+### CSS Framework CDN
 
 | **Command** | ** Help Text **                                                                                   |
 | ----------- | ------------------------------------------------------------------------------------------------- |
@@ -49,13 +49,13 @@
 ### Categories
 
 - Starter Template 🚀
-- Css CDN ✅
+- CSS CDN ✅
 - Icon CDN ✅
 - Others CDN ✅
 
 
 
 <p align="center">
-  <img align="middel" src="https://i.imgur.com/Vp1w8uI.gif">
+  <img align="middel" src="https://user-images.githubusercontent.com/60034035/115988843-4d68c780-a5dd-11eb-9c5b-c130f0166abb.gif">
 </p>
 
