@@ -1,6 +1,6 @@
 # CDN Ninja
 
-### Main Commands
+### Starter Template Commands
 
 | **Command** | ** Help Text **                                                                                   |
 | ----------- | ------------------------------------------------------------------------------------------------- |
@@ -8,13 +8,36 @@
 | !tst        | Tailwind CSS Starter Template                                                                     |
 | !mst        | Materialize CSS  Starte Template                                                                  |
 | !bust       | Bulma Starter Template                                                                            |
+
+---
+
+### CSS Framework CDN
+
+| **Command** | ** Help Text **                                                                                   |
+| ----------- | ------------------------------------------------------------------------------------------------- |
 | !bcdn       | Boostrap CDN                                                                                      | 
+| !mcdn       | Materialize CSS CDN                                                                               |
+| !tcdn       | Tailwind CSS CDN                                                                                  |
+| !bucdn      | Bulma CDN                                                                                         |
 
 
+---
 
 
+### Icon CDN
 
-### CDN
+| **Command** | ** Help Text **                                                                                   |
+| ----------- | ------------------------------------------------------------------------------------------------- |
+| !ficdn      | Frontawesome Icon CDN                                                                             |
+| !micdn      | Material Icon CDN                                                                                 |
+| !fricdn     | Friconix Icon CDN                                                                                 |
+|
+
+
+---
+
+
+### Category
 
 - Bootstrap CDN 🚀
 - Materialize css CDN ✅
