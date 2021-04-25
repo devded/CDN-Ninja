@@ -11,7 +11,7 @@
 
 ---
 
-### CSS Framework CDN
+### Css Framework CDN
 
 | **Command** | ** Help Text **                                                                                   |
 | ----------- | ------------------------------------------------------------------------------------------------- |
@@ -37,12 +37,12 @@
 ---
 
 
-### Category
+### Categories
 
-- Bootstrap CDN 🚀
-- Materialize css CDN ✅
-- Tailwind css CDN ✅
-- Bulma CDN ✅
+- Starter Template 🚀
+- Css CDN ✅
+- Icon CDN ✅
+- Others CDN ✅
 
 
 
