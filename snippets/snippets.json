@@ -178,6 +178,22 @@
       "<!-- SMTP CDN -->",
       "<script src=\"https://smtpjs.com/v3/smtp.js\"></script>"
     ]
+  },
+
+  "jsPdf CDN": {
+    "prefix": "!jpcdn",
+    "body": [
+      "<!-- jsPdf CDN -->",
+      "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.3.1/jspdf.umd.min.js\"></script>"
+    ]
+  },
+
+  "jsPdf Table CDN": {
+    "prefix": "!jptcdn",
+    "body": [
+      "<!-- jsPdf Table CDN -->",
+      "<script src=\"https://unpkg.com/jspdf-autotable@3.5.14/dist/jspdf.plugin.autotable.js\"></script>"
+    ]
   }
   
 }
