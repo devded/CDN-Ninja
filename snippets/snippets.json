@@ -1,102 +1,119 @@
 {
-  "Bootstrap 4 Starter Template CDN ": {
+  "Bootstrap 5 Starter Template": {
     "prefix": "!bst",
     "body": [
-      "<!DOCTYPE html>",
+      "<!doctype html>",
       "<html lang=\"en\">",
-      "<head>",
-      "<meta charset=\"UTF-8\">",
-      "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">",
-      "<meta http-equiv=\"X-UA-Compatible\" content=\"ie=edge\">",
-      "<meta name=\"Description\" content=\"Enter your description here\"/>",
-      "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css\">",
-      "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css\">",
-      "<link rel=\"stylesheet\" href=\"assets/css/style.css\">",
-      "<title>${1:Title}</title>",
-      "</head>",
-      "<body>",
-      "$0",
-      "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.min.js\"></script>",
-      "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/umd/popper.min.js\"></script>",
-      "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/js/bootstrap.min.js\"></script>",
-      "</body>",
+      "  <head>",
+      "    <!-- Required meta tags -->",
+      "    <meta charset=\"utf-8\">",
+      "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+      "",
+      "    <!-- Bootstrap CSS -->",
+      "    <link href=\"https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css\" rel=\"stylesheet\" integrity=\"sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC\" crossorigin=\"anonymous\">",
+      "",
+      "    <title>Hello, world!</title>",
+      "  </head>",
+      "  <body>",
+      "    <h1>Hello, world!</h1>",
+      "",
+      "    <!-- Optional JavaScript; choose one of the two! -->",
+      "",
+      "    <!-- Option 1: Bootstrap Bundle with Popper -->",
+      "    <script src=\"https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js\" integrity=\"sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM\" crossorigin=\"anonymous\"></script>",
+      "",
+      "    <!-- Option 2: Separate Popper and Bootstrap JS -->",
+      "    <!--",
+      "    <script src=\"https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js\" integrity=\"sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p\" crossorigin=\"anonymous\"></script>",
+      "    <script src=\"https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js\" integrity=\"sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF\" crossorigin=\"anonymous\"></script>",
+      "    -->",
+      "  </body>",
       "</html>"
     ],
-    "description": "This comes with a complete Bootstrap 4 CDN all it's dependencies and Font-Awesome 5"
+    "description": "Bootstrap 5 Starter Template"
   },
 
-  "Materializecss Starter Template CDN ": {
+  "Materializecss Starter Template": {
     "prefix": "!mst",
     "body": [
       "<!DOCTYPE html>",
-      "<html lang=\"en\">",
-      "<head>",
-      "<meta charset=\"UTF-8\">",
-      "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">",
-      "<meta http-equiv=\"X-UA-Compatible\" content=\"ie=edge\">",
-      "<meta name=\"Description\" content=\"Enter your description here\"/>",
-      "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css\">",
-      "<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\">",
-      "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css\">",
-      "<link rel=\"stylesheet\" href=\"css/style.css\">",
-      "<title>${1:Title}</title>",
-      "</head>",
-      "<body>",
-      "$0",
-      "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.min.js\"></script>",
-      "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js\"></script>",
-      "</body>",
-      "</html>"
+      "  <html>",
+      "    <head>",
+      "      <!--Import Google Icon Font-->",
+      "      <link href=\"https://fonts.googleapis.com/icon?family=Material+Icons\" rel=\"stylesheet\">",
+      "      <!--Import materialize.css-->",
+      "      <link type=\"text/css\" rel=\"stylesheet\" href=\"css/materialize.min.css\"  media=\"screen,projection\"/>",
+      "",
+      "      <!--Let browser know website is optimized for mobile-->",
+      "      <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"/>",
+      "    </head>",
+      "",
+      "    <body>",
+      "",
+      "      <!--JavaScript at end of body for optimized loading-->",
+      "      <script type=\"text/javascript\" src=\"js/materialize.min.js\"></script>",
+      "    </body>",
+      "  </html>"
     ],
-    "description": "This comes with a complete Materialize CSS CDN all it's dependencies. Also Font-Awesome 5 & Material Icon"
+    "description": "Materializecss Starter Template"
   },
-  "tailindcss Starter Template CDN ": {
+  "Tailwind Starter Template": {
     "prefix": "!tst",
     "body": [
-      "<!DOCTYPE html>",
-      "<html lang=\"en\">",
+      "<!doctype html>",
+      "<html>",
       "<head>",
-      "<meta charset=\"UTF-8\">",
-      "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">",
-      "<meta http-equiv=\"X-UA-Compatible\" content=\"ie=edge\">",
-      "<meta name=\"Description\" content=\"Enter your description here\"/>",
-      "<link href=\"https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css\" rel=\"stylesheet\">\n",
-      "<title>${1:Title}</title>",
+      "  <meta charset=\"UTF-8\">",
+      "  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">",
+      "  <script src=\"https://cdn.tailwindcss.com\"></script>",
       "</head>",
       "<body>",
-      "$0",
+      "  <h1 class=\"text-3xl font-bold underline\">",
+      "    Hello world!",
+      "  </h1>",
       "</body>",
       "</html>"
     ],
-    "description": "This comes with a complete Materialize CSS CDN all it's dependencies. Also Font-Awesome 5 & Material Icon"
+    "description": "Tailwind Starter Template"
   },
 
-  "Bulma Starter Template CDN ": {
+  "Bulma Starter Template": {
     "prefix": "!bust",
     "body": [
-      "<!DOCTYPE html>\n",
-      "<html>\n",
-      "<head>\n",
-      "    <meta charset=\"utf-8\">\n",
-      "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n",
-      "    <title>Hello Bulma!</title>\n",
-      "    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bulma@0.9.2/css/bulma.min.css\">\n",
-      "</head>\n",
-      "<body>\n",
-      "    <section class=\"section\">\n",
-      "        <div class=\"container\">\n",
-      "            <h1 class=\"title\">\n",
-      "                Hello World\n",
-      "            </h1>\n",
-      "            <p class=\"subtitle\">\n",
-      "                My first website with <strong>Bulma</strong>!\n",
-      "            </p>\n",
-      "        </div>\n",
-      "    </section>\n",
-      "</body>\n",
+      "<!DOCTYPE html>",
+      "<html>",
+      "  <head>",
+      "    <meta charset=\"utf-8\">",
+      "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+      "    <title>Hello Bulma!</title>",
+      "    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css\">",
+      "  </head>",
+      "  <body>",
+      "  <section class=\"section\">",
+      "    <div class=\"container\">",
+      "      <h1 class=\"title\">",
+      "        Hello World",
+      "      </h1>",
+      "      <p class=\"subtitle\">",
+      "        My first website with <strong>Bulma</strong>!",
+      "      </p>",
+      "    </div>",
+      "  </section>",
+      "  </body>",
       "</html>"
     ],
-    "description": "This comes with a complete Materialize CSS CDN all it's dependencies. Also Font-Awesome 5 & Material Icon"
+    "description": "Bulma Starter Template"
+  },
+  
+  "Bootstrap CDN": {
+    "prefix": "!bcdn",
+    "body": [
+      "    <!-- Bootstrap CSS -->",
+      "    <link href=\"https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css\" rel=\"stylesheet\" integrity=\"sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC\" crossorigin=\"anonymous\">",
+      "    <!-- Bootstrap Bundle with Popper -->",
+      "    <script src=\"https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js\" integrity=\"sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM\" crossorigin=\"anonymous\"></script>"
+    ],
+    "description": "Bootstrap CDN"
   },
 
   "Back4App JS CDN": {
@@ -110,7 +127,7 @@
     "prefix": "!tcdn",
     "body": [
       "<!-- Tailwind CSS -->",
-      "<link href=\"https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css\" rel=\"stylesheet\">"
+      "<link href=\"https://cdn.tailwindcss.com\" rel=\"stylesheet\">"
     ]
   },
 
@@ -120,7 +137,7 @@
       "<!-- Compiled and minified CSS -->",
       "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css\">\n",
       "<!-- Compiled and minified JavaScript -->",
-      "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js\"></script>",
+      "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js\"></script>"
     ]
   },
 
@@ -128,7 +145,7 @@
     "prefix": "!bucdn",
     "body": [
       "<!-- Bulma CSS -->",
-      "<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bulma@0.9.2/css/bulma.min.css\">"
+      "<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css\">"
     ]
   },
 
@@ -195,5 +212,4 @@
       "<script src=\"https://unpkg.com/jspdf-autotable@3.5.14/dist/jspdf.plugin.autotable.js\"></script>"
     ]
   }
-  
 }

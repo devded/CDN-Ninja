@@ -1,3 +1,6 @@
+### [0.0.3]
+
+Update all Stater Template CSS and JS assets
 
 ### [0.0.1]
 
